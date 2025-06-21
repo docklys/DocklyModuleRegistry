@@ -1,0 +1,66 @@
+{
+  "module": {
+    "id": "cpu-monitor-widget",
+    "name": "CPU Monitor Widget",
+    "version": "1.2.3",
+    "type": "module",
+    
+    "description": "Real-time CPU usage monitoring with graphs and alerts",
+    "category": "System Monitoring",
+    "tags": ["cpu", "monitoring", "performance", "system"],
+    
+    "author": {
+      "name": "John Developer",
+      "email": "john@example.com",
+      "website": "https://johndeveloper.com",
+      "github": "johndev123"
+    },
+    "license": "MIT",
+    
+    "downloadUrl": "https://github.com/johndev123/cpu-widget/releases/download/v1.2.3/cpu-widget.dll",
+    "sourceUrl": "https://github.com/johndev123/cpu-widget",
+    "documentationUrl": "https://github.com/johndev123/cpu-widget/ReadMe",
+    
+    "fileSize": 2048576,
+    "checksum": "a1b2c3d4e5f6g7h8...",
+    "checksumType": "sha256",
+    "tileSize": {
+      "width": 3,
+      "height": 1
+    },
+    
+
+    "minAppVersion": "1.0.0",
+    "maxAppVersion": "2.0.0",
+    "supportedPlatforms": ["Windows", "Linux", "macOS"],
+    
+    "dependencies": [
+      {
+        "moduleId": "chart-library-plugin",
+        "version": ">=1.0.0",
+        "required": false,
+        "description": "Enables advanced chart features"
+      }
+    ],
+    
+    "icon": "https://example.com/icon.png",
+    "screenshots": [
+      "https://example.com/screenshot1.png",
+      "https://example.com/screenshot2.png"
+    ],
+    
+    "rating": 4.5,
+    "reviews": 3420,
+    "downloadCount": 15420,
+    "verified": true,
+
+    "publishedAt": "2024-01-20T09:00:00Z",
+    "lastUpdated": "2024-06-20T14:45:00Z",
+
+    "changelog": {
+      "1.2.3": "Fixed memory leak in chart rendering",
+      "1.2.0": "Added notification alerts for high CPU usage",
+      "1.1.0": "Improved UI responsiveness"
+    }
+  }
+}

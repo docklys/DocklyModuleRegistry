@@ -1,0 +1,27 @@
+[
+	{
+		"id": "default-module",
+		"name": "Default Module",
+		"version": "0.0.0",
+		"type": "module",
+		"tags": ["cpu", "monitoring", "performance", "system"],
+		"category": "",
+		"author": {
+			"name": "qwqc"
+		},
+		"downloadUrl": "",
+		"tileSize": { "width": 2, "height": 2 },
+		"minAppVersion": "1.0.0",
+		"maxAppVersion": "",
+		"supportedPlatforms": ["Windows", "Linux", "macOS"],
+		"icon": "",
+		"rating": 4.5,
+		"reviews": 0,
+		"downloadCount": 0,
+		"verified": true,
+		"publishedAt": "2025-06-21T09:00:00Z"
+	},
+    {
+        "id": "..."
+    }
+]
