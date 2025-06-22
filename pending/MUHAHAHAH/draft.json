@@ -1,0 +1,50 @@
+{
+  "module": {
+    "id": "MUHAHAHAH",
+    "name": "MUHAHAHAH",
+    "version": "1.0.0",
+    "type": "Module",
+    "description": "MUHAHAHAH",
+    "category": "Decor",
+    "tags": [
+      "MUHAHAHAH"
+    ],
+    "author": {
+      "name": "qwqc",
+      "email": "lz@live.de",
+      "website": "",
+      "github": "dcqwqc"
+    },
+    "license": "MIT",
+    "dllUrl": "https://github.com/dcqwqc/DocklyModuleRegistry/tree/main/registry/Modules/MUHAHAHAH/MUHAHAHAH.dll",
+    "metadataUrl": "https://github.com/dcqwqc/DocklyModuleRegistry/tree/main/registry/Modules/MUHAHAHAH/metadata.json",
+    "sourceUrl": "https://github.com/dcqwqc/Docklys.DefaultModule",
+    "documentationUrl": "https://raw.githubusercontent.com/dcqwqc/Docklys.DefaultModule/master/README.md",
+    "fileSize": 0,
+    "checksum": "",
+    "checksumType": "sha256",
+    "tileSize": {
+      "width": 1,
+      "height": 1
+    },
+    "minAppVersion": "",
+    "maxAppVersion": "",
+    "supportedPlatforms": [
+      "Windows"
+    ],
+    "dependencies": [],
+    "icon": "icon.png",
+    "screenshots": [
+      "screenshot-1750622312783.png"
+    ],
+    "rating": 0,
+    "reviews": 0,
+    "downloadCount": 0,
+    "verified": false,
+    "publishedAt": "",
+    "lastUpdated": "2025-06-22T19:58:34.014Z",
+    "changelog": {
+      "1.0.0": "MUHAHAHAH"
+    }
+  }
+}
