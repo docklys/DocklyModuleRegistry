@@ -36,7 +36,7 @@
     
     "dependencies": [
       {
-        "moduleId": "chart-library-plugin",
+        "id": "chart-library-plugin",
         "version": ">=1.0.0",
         "required": false,
         "description": "Enables advanced chart features"
