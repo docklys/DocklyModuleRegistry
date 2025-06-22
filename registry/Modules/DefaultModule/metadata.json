@@ -1,68 +1,51 @@
 {
   "module": {
-    "id": "cpu-monitor-widget",
-    "name": "CPU Monitor Widget",
-    "version": "1.2.3",
-    "type": "module",
-    
-    "description": "Real-time CPU usage monitoring with graphs and alerts",
-    "category": "System Monitoring",
-    "tags": ["cpu", "monitoring", "performance", "system"],
-    
+    "id": "DefaultModule",
+    "name": "Default Module",
+    "version": "1.0.0",
+    "type": "Module",
+    "description": "Default Module",
+    "category": "Decor",
+    "tags": [
+      "Default Module",
+      "2x2"
+    ],
     "author": {
-      "name": "John Developer",
-      "email": "john@example.com",
-      "website": "https://johndeveloper.com",
-      "github": "johndev123"
+      "name": "qwqc",
+      "email": "lz@live.de",
+      "website": "",
+      "github": "dcqwqc"
     },
     "license": "MIT",
-    
-    "dllUrl": "https://github.com/johndev123/cpu-widget/releases/download/v1.2.3/cpu-widget.dll",
-    "metadataUrl": "https://github.com/johndev123/cpu-widget/ReadMe",
-    "sourceUrl": "https://github.com/johndev123/cpu-widget",
-    "documentationUrl": "https://github.com/johndev123/cpu-widget/ReadMe",
-
-    
-    "fileSize": 2048576,
-    "checksum": "a1b2c3d4e5f6g7h8...",
+    "dllUrl": "https://github.com/dcqwqc/DocklyModuleRegistry/tree/main/registry/Modules/DefaultModule/DefaultModule.dll",
+    "metadataUrl": "https://github.com/dcqwqc/DocklyModuleRegistry/tree/main/registry/Modules/DefaultModule/metadata.json",
+    "sourceUrl": "https://github.com/dcqwqc/Docklys.DefaultModule",
+    "documentationUrl": "https://raw.githubusercontent.com/dcqwqc/Docklys.DefaultModule/master/README.md",
+    "fileSize": 0,
+    "checksum": "",
     "checksumType": "sha256",
     "tileSize": {
-      "width": 3,
-      "height": 1
+      "width": 2,
+      "height": 2
     },
-    
-
-    "minAppVersion": "1.0.0",
-    "maxAppVersion": "2.0.0",
-    "supportedPlatforms": ["Windows", "Linux", "macOS"],
-    
-    "dependencies": [
-      {
-        "id": "chart-library-plugin",
-        "version": ">=1.0.0",
-        "required": false,
-        "description": "Enables advanced chart features"
-      }
+    "minAppVersion": "",
+    "maxAppVersion": "",
+    "supportedPlatforms": [
+      "Windows"
     ],
-    
-    "icon": "https://example.com/icon.png",
+    "dependencies": [],
+    "icon": "icon.png",
     "screenshots": [
-      "https://example.com/screenshot1.png",
-      "https://example.com/screenshot2.png"
+      "screenshot-1750622713442.png"
     ],
-    
-    "rating": 4.5,
-    "reviews": 3420,
-    "downloadCount": 15420,
-    "verified": true,
-
-    "publishedAt": "2024-01-20T09:00:00Z",
-    "lastUpdated": "2024-06-20T14:45:00Z",
-
+    "rating": 0,
+    "reviews": 0,
+    "downloadCount": 0,
+    "verified": false,
+    "publishedAt": "",
+    "lastUpdated": "2025-06-22T20:05:14.954Z",
     "changelog": {
-      "1.2.3": "Fixed memory leak in chart rendering",
-      "1.2.0": "Added notification alerts for high CPU usage",
-      "1.1.0": "Improved UI responsiveness"
+      "1.0.0": "Default Module"
     }
   }
 }
