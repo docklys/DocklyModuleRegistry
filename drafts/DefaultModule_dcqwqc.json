@@ -1,0 +1,42 @@
+{
+  "module": {
+    "id": "DefaultModule",
+    "name": "Default Module",
+    "version": "1.0.0",
+    "type": "Module",
+    "description": "",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "",
+      "email": "",
+      "website": "",
+      "github": "dcqwqc"
+    },
+    "license": "",
+    "dllUrl": "https://github.com/dcqwqc/DocklyModuleRegistry/tree/main/registry/Modules/DefaultModule/DefaultModule.dll",
+    "metadataUrl": "https://github.com/dcqwqc/DocklyModuleRegistry/tree/main/registry/Modules/DefaultModule/metadata.json",
+    "sourceUrl": "",
+    "documentationUrl": "",
+    "fileSize": 0,
+    "checksum": "",
+    "checksumType": "sha256",
+    "tileSize": {
+      "width": 1,
+      "height": 1
+    },
+    "minAppVersion": "",
+    "maxAppVersion": "",
+    "supportedPlatforms": [],
+    "dependencies": [],
+    "icon": "",
+    "screenshots": [],
+    "rating": 0,
+    "reviews": 0,
+    "downloadCount": 0,
+    "verified": false,
+    "publishedAt": "",
+    "lastUpdated": "2025-06-22T19:06:48.122Z",
+    "changelog": {}
+  }
+}
