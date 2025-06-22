@@ -34,14 +34,14 @@
       "Windows"
     ],
     "dependencies": [],
-    "icon": "",
+    "icon": "icon.png",
     "screenshots": [],
     "rating": 0,
     "reviews": 0,
     "downloadCount": 0,
     "verified": false,
-    "publishedAt": "2025-06-22T21:46:49.196Z",
-    "lastUpdated": "2025-06-22T21:46:49.196Z",
+    "publishedAt": "",
+    "lastUpdated": "2025-06-22T21:49:27.055Z",
     "changelog": {
       "1.0.0": "Default Module"
     }
