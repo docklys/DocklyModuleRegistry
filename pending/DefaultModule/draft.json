@@ -1,0 +1,49 @@
+{
+  "module": {
+    "id": "DefaultModule",
+    "name": "Default Module",
+    "version": "1.0.0",
+    "type": "Module",
+    "description": "Default Module",
+    "category": "Decor",
+    "tags": [
+      "Default Module",
+      "2x2"
+    ],
+    "author": {
+      "name": "qwqc",
+      "email": "lz@live.de",
+      "website": "",
+      "github": "dcqwqc"
+    },
+    "license": "MIT",
+    "dllUrl": "https://github.com/dcqwqc/DocklyModuleRegistry/tree/main/registry/Modules/DefaultModule/DefaultModule.dll",
+    "metadataUrl": "https://github.com/dcqwqc/DocklyModuleRegistry/tree/main/registry/Modules/DefaultModule/metadata.json",
+    "sourceUrl": "https://github.com/dcqwqc/Docklys.DefaultModule",
+    "documentationUrl": "https://raw.githubusercontent.com/dcqwqc/Docklys.DefaultModule/master/README.md",
+    "fileSize": 0,
+    "checksum": "",
+    "checksumType": "sha256",
+    "tileSize": {
+      "width": 2,
+      "height": 2
+    },
+    "minAppVersion": "",
+    "maxAppVersion": "",
+    "supportedPlatforms": [
+      "Windows"
+    ],
+    "dependencies": [],
+    "icon": "",
+    "screenshots": [],
+    "rating": 0,
+    "reviews": 0,
+    "downloadCount": 0,
+    "verified": false,
+    "publishedAt": "2025-06-22T21:46:49.196Z",
+    "lastUpdated": "2025-06-22T21:46:49.196Z",
+    "changelog": {
+      "1.0.0": "Default Module"
+    }
+  }
+}
