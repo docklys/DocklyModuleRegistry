@@ -9,7 +9,7 @@
 		"author": {
 			"name": "qwqc"
 		},
-		"downloadUrl": "",
+		"dllUrl": "",
 		"tileSize": { "width": 2, "height": 2 },
 		"minAppVersion": "1.0.0",
 		"maxAppVersion": "",
