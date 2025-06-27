@@ -17,7 +17,7 @@
     },
     "license": "MIT",
     "dllUrl": "https://github.com/docklys/DocklyModuleRegistry/tree/main/registry/Modules/BlackModule/BlackModule.dll",
-    "metadataUrl": "https://github.com/docklys/DocklyModuleRegistry/tree/main/registry/Modules/BlackModule/metadata.json",
+    "metadataUrl": "https://github.com/docklys/DocklyModuleRegistry/blob/main/pending/BlackModule/submission-BlackModule-dcqwqc.json",
     "sourceUrl": "https://github.com/dcqwqc/Dockly.BlackModule",
     "documentationUrl": "https://raw.githubusercontent.com/dcqwqc/Dockly.BlackModule/main/README.md",
     "fileSize": 0,
