@@ -2,7 +2,7 @@
   "module": {
     "id": "BlackModule",
     "name": "BlackModule",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "type": "Module",
     "description": "BlackModule",
     "category": "System Monitoring",
@@ -42,8 +42,9 @@
     "downloadCount": 0,
     "verified": true,
     "publishedAt": "2025-06-23T22:19:21.449Z",
-    "lastUpdated": "2025-06-27T21:23:04.571Z",
+    "lastUpdated": "2025-06-27T21:25:07.565Z",
     "changelog": {
+      "1.0.9": "ADW ",
       "1.0.8": "wadwawdwd",
       "1.0.7": "777",
       "1.0.6": "6666666666",
