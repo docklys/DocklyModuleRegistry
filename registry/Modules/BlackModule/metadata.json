@@ -2,7 +2,7 @@
   "module": {
     "id": "BlackModule",
     "name": "BlackModule",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "Module",
     "description": "BlackModule",
     "category": "System Monitoring",
@@ -35,16 +35,16 @@
     "dependencies": [],
     "icon": "icon.png",
     "screenshots": [
-      "screenshot-1750717160573.png"
+      "screenshot-1751054061901.png"
     ],
     "rating": null,
     "reviews": 0,
     "downloadCount": 0,
     "verified": true,
     "publishedAt": "2025-06-23T22:19:21.449Z",
-    "lastUpdated": "2025-06-27T19:05:04.417Z",
+    "lastUpdated": "2025-06-27T19:55:20.695Z",
     "changelog": {
-      "1.0.0": "BlackModule"
+      "1.0.1": "Aded screnshot"
     }
   }
 }
