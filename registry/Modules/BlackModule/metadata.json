@@ -2,7 +2,7 @@
   "module": {
     "id": "BlackModule",
     "name": "BlackModule",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "type": "Module",
     "description": "BlackModule",
     "category": "System Monitoring",
@@ -42,8 +42,9 @@
     "downloadCount": 0,
     "verified": true,
     "publishedAt": "2025-06-23T22:19:21.449Z",
-    "lastUpdated": "2025-06-27T20:24:08.427Z",
+    "lastUpdated": "2025-06-27T20:38:32.780Z",
     "changelog": {
+      "1.0.4": "lol 4",
       "1.0.3": "das ",
       "1.0.2": "hehe",
       "1.0.1": "Aded screnshot"
